@@ -1,10 +1,10 @@
-Merlin
+Scallop
 ======
 Free template with [Twitter Bootstrap](http://getbootstrap.com/) framework.
 
 ### Download
 
-[https://github.com/halibegic/merlin/archive/master.zip](https://github.com/halibegic/merlin/archive/master.zip)
+[https://github.com/halibegic/Scallop/archive/master.zip](https://github.com/halibegic/Scallop/archive/master.zip)
 
 ### Credits
  * [jQuery](http://jquery.com/)
